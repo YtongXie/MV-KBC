@@ -1,0 +1,5 @@
+Multi-view origial, texture and shape patches without data augmentation.
+
+nodule_1_1_original.mat: A example of single-view origial patch
+nodule_1_1_texture.mat: A example of single-view texture patch
+nodule_1_1_shape.mat: A example of single-view shape patch
