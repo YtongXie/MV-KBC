@@ -1,4 +1,4 @@
-# MVKBC model for benign-malignant lung nodule classification
+# MV-KBC model for benign-malignant lung nodule classification
 Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT
 
 # Introduction
@@ -18,6 +18,7 @@ The tool in https://github.com/taznux/lung-image-analysis is used to extract lun
 # Citation
 If you use this code, please cite the following:
 
+```
 @article{xie2018knowledge,
   title={Knowledge-based collaborative deep learning for benign-malignant lung nodule classification on chest CT},
   author={Xie, Yutong and Xia, Yong and Zhang, Jianpeng and Song, Yang and Feng, Dagan and Fulham, Michael and Cai, Weidong},
@@ -28,3 +29,7 @@ If you use this code, please cite the following:
   year={2018},
   publisher={IEEE}
 }
+```
+
+# Contact
+Yutong Xie (xuyongxie@mail.nwpu.edu.cn)
