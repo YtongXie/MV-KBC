@@ -1,1 +1,3 @@
 Multi-view original, texture and shape patches with data agumentation.
+
+Using "data_augmentation.py" to generate them.
